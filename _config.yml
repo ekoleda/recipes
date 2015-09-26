@@ -1,7 +1,7 @@
 # Site settings
 title: Eric and Christine's Recipes
 tagline: Recipes for our family.
-#baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/recipes/"
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
