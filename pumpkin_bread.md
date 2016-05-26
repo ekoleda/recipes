@@ -45,4 +45,4 @@ Notes
 Pictures
 --------
 
-<img src="{{ site.url }}/images/PumpkinBread1.jpg" />
+<img src="{{ site.baseurl }}/images/PumpkinBread1.jpg" />

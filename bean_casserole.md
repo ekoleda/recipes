@@ -37,4 +37,4 @@ Notes
 Pictures
 --------
 
-<img src="{{ site.url }}/images/BeanCaserole1.jpg" /><img src="{{ site.url }}/images/BeanCaserole2.jpg" />
+<img src="{{ site.baseurl }}/images/BeanCaserole1.jpg" /><img src="{{ site.baseurl }}/images/BeanCaserole2.jpg" />
