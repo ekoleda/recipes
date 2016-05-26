@@ -1,6 +1,8 @@
 ---
 title: Pumpkin Pie
 permalink: /pumpkin_pie/
+categories: ["Dessert"]
+tags: ["Photos"]
 ---
 
 Description
@@ -45,4 +47,3 @@ Pictures
 
 [Image:PumkinPie1.jpg](/Image:PumkinPie1.jpg "wikilink")
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Dessert](/Category:Dessert "wikilink") [Category:Photos](/Category:Photos "wikilink")

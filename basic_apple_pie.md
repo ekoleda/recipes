@@ -1,7 +1,7 @@
 ---
 title: Basic Apple Pie
 permalink: /basic_apple_pie/
-categories: [Dessert]
+categories: ["Dessert"]
 ---
 
 Description

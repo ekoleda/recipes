@@ -1,6 +1,7 @@
 ---
 title: Southern Style Biscuits
 permalink: /southern_style_biscuits/
+categories: ["Side Dish"]
 ---
 
 Description
@@ -35,4 +36,3 @@ Notes
 -   Make sure to note that the measurements for dry stuff are teaspoons, not tablespoons. I mixed that up the first time, and the biscuits turned out ok, but def a little off.
 -   Might be better if a little melted butter is used to glaze the tops.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Side Dish](/Category:Side_Dish "wikilink")

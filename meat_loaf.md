@@ -1,6 +1,8 @@
 ---
 title: Meat Loaf
 permalink: /meat_loaf/
+categories: ["Entree"]
+tags: ["Family"]
 ---
 
 Description
@@ -32,4 +34,3 @@ Notes
 
 -   The cheddar cheese really makes it, so the more the better.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink") [Category:Family](/Category:Family "wikilink")

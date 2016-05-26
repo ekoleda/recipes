@@ -1,6 +1,8 @@
 ---
 title: Stuffed Peppers
 permalink: /stuffed_peppers/
+categories: ["Entree"]
+tags: ["Family"]
 ---
 
 Description
@@ -32,4 +34,3 @@ Notes
 -   Add fresh tomato to the stuffing for a sligh variation.
 -   Optionally top the pepper with breadcrumbs before baking.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink") [Category:Family](/Category:Family "wikilink")

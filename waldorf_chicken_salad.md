@@ -1,6 +1,7 @@
 ---
 title: Waldorf Chicken Salad
 permalink: /waldorf_chicken_salad/
+categories: ["Entree"]
 ---
 
 Description
@@ -33,4 +34,3 @@ Notes
 
 -   Delicious on a challah bread roll.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink")

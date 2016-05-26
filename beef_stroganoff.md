@@ -1,6 +1,8 @@
 ---
 title: Beef Stroganoff
 permalink: /beef_stroganoff/
+categories: ["Entree"]
+tags: ["Crockpot"]
 ---
 
 Description
@@ -34,4 +36,3 @@ Notes
 -   Some recipes say Cream Cheese would work instead of Sour Cream.
 -   Noodles can be substituted with rice, pasta, or any other starch.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink") [Category:Crockpot](/Category:Crockpot "wikilink")

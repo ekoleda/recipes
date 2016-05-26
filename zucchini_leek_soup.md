@@ -1,6 +1,8 @@
 ---
 title: Zucchini Leek Soup
 permalink: /zucchini_leek_soup/
+categories: ["Soups & Stews"]
+tags: ["CSA"]
 ---
 
 Description
@@ -27,4 +29,3 @@ Directions
 3.  Bring to a boil and then simmer 20 minutes or until desired consistency.
 4.  Once tender blend with immersion blender.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Soups & Stews](/Category:Soups_&_Stews "wikilink") [Category:CSA](/Category:CSA "wikilink")

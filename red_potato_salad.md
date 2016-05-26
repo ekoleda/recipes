@@ -1,6 +1,7 @@
 ---
 title: Red Potato Salad
 permalink: /red_potato_salad/
+categories: ["Side Dish"]
 ---
 
 Description
@@ -34,4 +35,3 @@ Notes
 -   It's very important to let the potatoes cool before cutting them. If they aren't fully cooled they will crumble apart and loose consistency.
 -   Try adding boiled eggs to mayonnaise mixture to give it that eggy taste.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Side Dish](/Category:Side_Dish "wikilink")

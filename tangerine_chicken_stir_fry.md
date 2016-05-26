@@ -1,6 +1,7 @@
 ---
 title: Tangerine Chicken Stir Fry
 permalink: /tangerine_chicken_stir_fry/
+categories: ["Entree"]
 ---
 
 Description
@@ -44,4 +45,3 @@ Notes
 -   Sauce takes a long time to thicken, up to 20 minutes perhaps.
 -   Leave handling the chicken to last moment, because it requires washing hands, etc.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink")

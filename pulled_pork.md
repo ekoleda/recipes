@@ -1,6 +1,8 @@
 ---
 title: Pulled Pork
 permalink: /pulled_pork/
+categories: ["Entree"]
+tags: ["Crockpot"]
 ---
 
 Description
@@ -32,4 +34,3 @@ Notes
 
 -   Those last 4-6 hours really soften it up right, and are very necessary.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink") [Category:Crockpot](/Category:Crockpot "wikilink")

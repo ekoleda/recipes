@@ -1,6 +1,8 @@
 ---
 title: Lasagna
 permalink: /lasagna/
+categories: ["Entree"]
+tags: ["Family"]
 ---
 
 Description
@@ -42,4 +44,3 @@ Notes
 -   I always run out of sauce for the top layer, so try to conserve as you're layering.
 -   Mom usually only made this for special occasions because it was a lot of work. But we all loved it.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink") [Category:Family](/Category:Family "wikilink")

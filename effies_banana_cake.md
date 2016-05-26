@@ -1,6 +1,7 @@
 ---
 title: Effie's Banana cake
 permalink: /effies_banana_cake/
+categories: ["Dessert"]
 ---
 
 Description
@@ -55,4 +56,3 @@ Notes
 -   Effie never specified how to boil the milk. Some internet searches revealed there are a number of methods, but I chose to go with this as it was the safest and most likely what Effie did.
 -   Bellina had a hard time describing the cream. Her words were "Creme Fresh" but I believe she meant Fresh unpasteurized Cream from a baker. I wasn't able to find this, so I went with ultra-pasteurized Heavy Cream. This is harder to make thick, but it did the trick.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Dessert](/Category:Dessert "wikilink")

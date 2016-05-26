@@ -1,6 +1,8 @@
 ---
 title: Thanksgiving Yams
 permalink: /thanksgiving_yams/
+categories: ["Side Dish"]
+tags: ["Family", "Holiday"]
 ---
 
 Description
@@ -32,5 +34,3 @@ Notes
 
 -   The consistency of the whole mixture should be like normal mashed potatoes, not too watery, nor too thick.
 -   Not too much syrup because it may become too sweet.
-
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Side Dish](/Category:Side_Dish "wikilink") [Category:Family](/Category:Family "wikilink") [Category:Holiday](/Category:Holiday "wikilink")

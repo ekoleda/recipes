@@ -1,6 +1,8 @@
 ---
 title: Bean Casserole
 permalink: /bean_casserole/
+categories: ["Side Dish"]
+tags: ["Family"]
 ---
 
 Description
@@ -36,5 +38,3 @@ Pictures
 --------
 
 [Image:BeanCaserole1.jpg](/Image:BeanCaserole1.jpg "wikilink") [Image:BeanCaserole2.jpg](/Image:BeanCaserole2.jpg "wikilink")
-
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Side Dish](/Category:Side_Dish "wikilink") [Category:Family](/Category:Family "wikilink") [Category:Photos](/Category:Photos "wikilink")

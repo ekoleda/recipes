@@ -1,6 +1,8 @@
 ---
 title: Chicken Nugget Pancakes
 permalink: /chicken_nugget_pancakes/
+categories: ["Entree"]
+tags: ["Original"]
 ---
 
 Description
@@ -34,4 +36,3 @@ Notes
 -   Re-grease the pan inbetween each batch of pancakes for optimal results.
 -   This recipe yeilds 3-4 servings.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink") [Category:Original](/Category:Original "wikilink")

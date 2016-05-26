@@ -1,6 +1,7 @@
 ---
 title: Roasted Butternut Squash
 permalink: /roasted_butternut_squash/
+categories: ["Side Dish"]
 ---
 
 Description
@@ -33,4 +34,3 @@ Notes
 
 -   I reduced the amount of cumin and red pepper flakes to take the kick down a notch.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Side Dish](/Category:Side_Dish "wikilink")

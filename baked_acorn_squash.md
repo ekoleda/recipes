@@ -1,7 +1,7 @@
 ---
 title: Baked Acorn Squash
 permalink: /baked_acorn_squash/
-categories: [Side Dish]
+categories: ["Side Dish"]
 ---
 
 Description

@@ -1,6 +1,7 @@
 ---
 title: Eric's Pulled Pork Chili
 permalink: /erics_pulled_pork_chili/
+categories: ["Entree"]
 ---
 
 Description
@@ -38,4 +39,3 @@ Notes
 -   Add beans towards the end to avoid them getting mushy.
 -   The resulting chili had good taste and texture, but could have used more spice. Consider adding spicy peppers to give it more of a kick.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink")

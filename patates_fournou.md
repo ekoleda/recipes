@@ -1,6 +1,8 @@
 ---
 title: Patates Fournou
 permalink: /patates_fournou/
+categories: ["Side Dish"]
+tags: ["Family"]
 ---
 
 Description
@@ -34,4 +36,3 @@ Notes
 
 -   A Joanna Naclerio recipe with help from [greekfood.about.com](http://greekfood.about.com/od/greeksidedishes/r/patatesfournou.htm).
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Side Dish](/Category:Side_Dish "wikilink") [Category:Family](/Category:Family "wikilink")

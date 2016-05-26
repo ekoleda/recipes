@@ -1,6 +1,7 @@
 ---
 title: Mashed Sweet Potatoes
 permalink: /mashed_sweet_potatoes/
+categories: ["Side Dish"]
 ---
 
 Description
@@ -30,4 +31,3 @@ Notes
 
 -   You can use milk instead of half-and-half.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Side Dish](/Category:Side_Dish "wikilink")

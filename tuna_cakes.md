@@ -1,6 +1,7 @@
 ---
 title: Tuna Cakes
 permalink: /tuna_cakes/
+categories: ["Entree"]
 ---
 
 Description
@@ -30,4 +31,3 @@ Notes
 
 -   Make sure you multiply correctly when making more than one serving :-P
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink")

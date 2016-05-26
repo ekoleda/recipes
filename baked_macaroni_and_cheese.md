@@ -1,7 +1,7 @@
 ---
 title: Baked Macaroni and Cheese
 permalink: /baked_macaroni_and_cheese/
-categories: [Side Dish]
+categories: ["Side Dish"]
 ---
 
 Description

@@ -1,6 +1,8 @@
 ---
 title: Horiatiki Salad
 permalink: /horiatiki_salad/
+categories: ["Salad"]
+tags: ["Family"]
 ---
 
 Description
@@ -28,4 +30,3 @@ Notes
 -   Traditionally this would be served with Greek Olives also, but since Eric doesn't like them we usually skip them.
 -   We usually eat some warm Pita bread or Pita chips with this.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Salad](/Category:Salad "wikilink") [Category:Family](/Category:Family "wikilink")

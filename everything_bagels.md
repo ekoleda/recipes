@@ -1,6 +1,7 @@
 ---
 title: Everything Bagels
 permalink: /everything_bagels/
+categories: ["Bread"]
 ---
 
 Description
@@ -39,4 +40,3 @@ Notes
 -   Dried chopped garlic works well in place of fresh garlic.
 -   The bagels don't rise very much in the oven, so larger bagels will be easier to slice when done.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Bread](/Category:Bread "wikilink")

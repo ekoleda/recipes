@@ -1,6 +1,8 @@
 ---
 title: Pumpkin Bread
 permalink: /pumpkin_bread/
+categories: ["Bread"]
+tags: ["Photos"]
 ---
 
 Description
@@ -45,4 +47,3 @@ Pictures
 
 [Image:PumpkinBread1.jpg](/Image:PumpkinBread1.jpg "wikilink")
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Bread](/Category:Bread "wikilink") [Category:Photos](/Category:Photos "wikilink")

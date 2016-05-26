@@ -1,6 +1,8 @@
 ---
 title: Mac and Hash Caserole
 permalink: /mac_and_hash_caserole/
+categories: ["Entree"]
+tags: ["Original"]
 ---
 
 Description
@@ -28,4 +30,3 @@ Directions
 6.  Sprinkle shredded cheese on top of bread
 7.  Bake in 350 degree oven for 15 minutes or golden grown
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink") [Category:Original](/Category:Original "wikilink")

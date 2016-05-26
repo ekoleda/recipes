@@ -1,6 +1,8 @@
 ---
 title: Thanksgiving Broccoli
 permalink: /thanksgiving_broccoli/
+categories: ["Side Dish"]
+tags: ["Family", "Holiday"]
 ---
 
 Description
@@ -37,5 +39,3 @@ Notes
 
 Pictures
 --------
-
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Side Dish](/Category:Side_Dish "wikilink") [Category:Family](/Category:Family "wikilink") [Category:Holiday](/Category:Holiday "wikilink")

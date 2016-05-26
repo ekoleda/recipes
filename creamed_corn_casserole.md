@@ -1,6 +1,8 @@
 ---
 title: Creamed Corn Casserole
 permalink: /creamed_corn_casserole/
+categories: ["Side Dish"]
+tags: ["Family"]
 ---
 
 Description
@@ -36,5 +38,3 @@ Pictures
 --------
 
 [Image:creamed_corn_casserole_1.jpg](/Image:creamed_corn_casserole_1.jpg "wikilink") [Image:creamed_corn_casserole_2.jpg](/Image:creamed_corn_casserole_2.jpg "wikilink")
-
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Side Dish](/Category:Side_Dish "wikilink") [Category:Family](/Category:Family "wikilink") [Category:Photos](/Category:Photos "wikilink")

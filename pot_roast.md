@@ -1,6 +1,7 @@
 ---
 title: Pot Roast
 permalink: /pot_roast/
+categories: ["Entree"]
 ---
 
 Description
@@ -45,4 +46,3 @@ Notes
 
 -   I left out the tomatoes, sage, and parsely the first time I cooked it, and it was still great.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink")

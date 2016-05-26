@@ -1,6 +1,8 @@
 ---
 title: Sloppy Joes
 permalink: /sloppy_joes/
+categories: ["Entree"]
+tags: ["Family"]
 ---
 
 Description
@@ -37,4 +39,3 @@ Notes
 
 -   Try not to overfill the bun with meat or else it will end up all over you!
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink") [Category:Family](/Category:Family "wikilink")

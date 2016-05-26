@@ -1,7 +1,7 @@
 ---
 title: Bean Burgers
 permalink: /bean_burgers/
-categories: [Entree]
+categories: ["Entree"]
 ---
 
 Description

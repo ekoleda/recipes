@@ -1,6 +1,8 @@
 ---
 title: Greek Lentil Soup
 permalink: /greek_lentil_soup/
+categories: ["Soups & Stews"]
+tags: ["Family"]
 ---
 
 Description
@@ -38,4 +40,3 @@ Notes
 -   1 hour was a little too long. The lentils started to break apart.
 -   Day 2, after refrigeration, it was even better!
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Soups & Stews](/Category:Soups_&_Stews "wikilink") [Category:Family](/Category:Family "wikilink")

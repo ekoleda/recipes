@@ -1,7 +1,7 @@
 ---
 title: Baked Potato Wedges
 permalink: /baked_potato_wedges/
-categories: [Side Dish]
+categories: ["Side Dish"]
 ---
 
 Description

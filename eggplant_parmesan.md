@@ -1,6 +1,8 @@
 ---
 title: Eggplant Parmesan
 permalink: /eggplant_parmesan/
+categories: ["Entree"]
+tags: ["CSA"]
 ---
 
 Description
@@ -41,4 +43,3 @@ Notes
 -   You can add any spices you like in the breadcrumbs bowl, or later in the layering stage.
 -   The no boil lasagna noodles need to be surrounded by sauce (liquid) in order to cook properly.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink") [Category:CSA](/Category:CSA "wikilink")

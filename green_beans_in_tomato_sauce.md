@@ -1,6 +1,8 @@
 ---
 title: Green Beans in Tomato Sauce
 permalink: /green_beans_in_tomato_sauce/
+categories: ["Side Dish"]
+tags: ["Family"]
 ---
 
 Description
@@ -33,4 +35,3 @@ Notes
 
 -   A Joanna Naclerio recipe with help from [greek-recipe.com](http://www.greek-recipe.com/modules.php?name=News&file=article89).
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Side Dish](/Category:Side_Dish "wikilink") [Category:Family](/Category:Family "wikilink")
