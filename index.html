@@ -6,6 +6,21 @@ layout: default
 
   <h1 class="page-heading">Recipes</h1>
 
+  {% for category in site.categories %}
+    {% assign name = category | first %}
+  
+    <h2>{{ name }}</h2>
+    <ul>
+    {% for page in site.pages %}
+      {% if page.categories contains name %}
+      <li>
+        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  {% endfor %}
+
   <ul class="post-list">
     {% for page in site.pages %}
       <li>
