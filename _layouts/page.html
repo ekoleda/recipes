@@ -13,7 +13,7 @@ layout: default
 
   <section class="post-meta">
     {% for tag in page.tags %}
-      #{{ tag.name }}
+      #{{ tag.slug }}
       {% if forloop.last == false %}, {% endif %}
     {% endfor %}
   </section>
