@@ -6,12 +6,15 @@ layout: default
 
   <h1 class="page-heading">Recipes</h1>
 
-  {% assign allcategories = "" %}
+  {% assign allcategories = site.emptyArray %}
   {% for page in site.pages %}
-      {% assign pagecategories = page.categories | join:'|' | append:'|' %}
-      {% assign allcategories = allcategories | append:pagecategories %}
+    {% for category in page.categories %}
+      {% unless allcategories contains category %}
+        {% assign allcategories = allcategories | push:category %}
+      {% endunless %}
+    {% endfor %}
   {% endfor %}
-  {% assign allcategories = allcategories | split:'|' | sort %}
+  {% assign allcategories = allcategories | sort %}
 
   <section class="post-content">
     {% for category in allcategories %}
@@ -26,6 +29,6 @@ layout: default
         {% endfor %}
       </ul>
     {% endfor %}
-    </section>
+  </section>
 
 </div>
