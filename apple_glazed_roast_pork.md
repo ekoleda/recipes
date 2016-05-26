@@ -2,6 +2,7 @@
 title: Apple-Glazed Roast Pork
 permalink: /apple-glazed_roast_pork/
 layout: page
+categories: recipe, entree, crockpot
 ---
 
 Description
@@ -36,4 +37,3 @@ Notes
 Pictures
 --------
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink") [Category:Crockpot](/Category:Crockpot "wikilink")
