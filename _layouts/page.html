@@ -11,4 +11,13 @@ layout: default
     {{ content }}
   </article>
 
+  <section class="post-meta">
+    {% if page.tags.length > 0 %}
+      {% for tag in page.tags %}
+        #{{ tag.name }}
+        {% if forloop.last == false %}, {% endif %}
+      {% endfor %}
+    {% endif %}
+  </section>
+
 </div>

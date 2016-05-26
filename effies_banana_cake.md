@@ -1,6 +1,6 @@
 ---
 title: Effie's Banana cake
-permalink: /effie's_banana_cake/
+permalink: /effies_banana_cake/
 ---
 
 Description

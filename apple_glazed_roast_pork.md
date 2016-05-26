@@ -1,8 +1,9 @@
 ---
 title: Apple-Glazed Roast Pork
-permalink: /apple-glazed_roast_pork/
+permalink: /apple_glazed_roast_pork/
 layout: page
-categories: recipe, entree, crockpot
+category: recipe
+tags: entree, crockpot
 ---
 
 Description

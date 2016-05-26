@@ -1,6 +1,6 @@
 ---
 title: Eric's Pulled Pork Chili
-permalink: /eric's_pulled_pork_chili/
+permalink: /erics_pulled_pork_chili/
 ---
 
 Description
