@@ -37,4 +37,4 @@ Notes
 Pictures
 --------
 
-[Image:creamed_corn_casserole_1.jpg](/Image:creamed_corn_casserole_1.jpg "wikilink") [Image:creamed_corn_casserole_2.jpg](/Image:creamed_corn_casserole_2.jpg "wikilink")
+<img src="{{ site.url }}/images/creamed_corn_casserole_1.jpg" /><img src="{{ site.url }}/images/creamed_corn_casserole_2.jpg" />

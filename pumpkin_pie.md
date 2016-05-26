@@ -45,5 +45,4 @@ Notes
 Pictures
 --------
 
-[Image:PumkinPie1.jpg](/Image:PumkinPie1.jpg "wikilink")
-
+<img src="{{ site.url }}/images/PumkinPie1.jpg" />

@@ -37,4 +37,4 @@ Notes
 Pictures
 --------
 
-[Image:BeanCaserole1.jpg](/Image:BeanCaserole1.jpg "wikilink") [Image:BeanCaserole2.jpg](/Image:BeanCaserole2.jpg "wikilink")
+<img src="{{ site.url }}/images/BeanCaserole1.jpg" /><img src="{{ site.url }}/images/BeanCaserole2.jpg" />
