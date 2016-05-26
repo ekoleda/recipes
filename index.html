@@ -14,12 +14,10 @@ layout: default
   {% assign allcategories = allcategories | split:'|' | sort %}
 
   {% for category in allcategories %}
-    {% assign name = category | first %}
-  
-    <h2>{{ name }}</h2>
+    <h2>{{ category }}</h2>
     <ul>
     {% for page in site.pages %}
-      {% if page.categories contains name %}
+      {% if page.categories contains category %}
       <li>
         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
       </li>
@@ -31,7 +29,7 @@ layout: default
   <ul class="post-list">
     {% for page in site.pages %}
       <li>
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> ({{page.categories}})
       </li>
     {% endfor %}
   </ul>
