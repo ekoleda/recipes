@@ -1,6 +1,7 @@
 ---
 title: Baked Macaroni and Cheese
 permalink: /baked_macaroni_and_cheese/
+categories: [Side Dish]
 ---
 
 Description
@@ -44,5 +45,3 @@ Notes
 -----
 
 -   The cheese mixture will still be very liquid when folded with the pasta, but it will solidify greatly in the oven.
-
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Side Dish](/Category:Side_Dish "wikilink")

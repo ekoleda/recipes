@@ -1,6 +1,7 @@
 ---
 title: Baked Potato Wedges
 permalink: /baked_potato_wedges/
+categories: [Side Dish]
 ---
 
 Description
@@ -32,5 +33,3 @@ Notes
 -----
 
 -   Feel free to experiment with other spices. Truffle oil can be used to fancy them up.
-
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Side Dish](/Category:Side_Dish "wikilink")

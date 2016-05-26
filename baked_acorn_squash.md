@@ -1,6 +1,7 @@
 ---
 title: Baked Acorn Squash
 permalink: /baked_acorn_squash/
+categories: [Side Dish]
 ---
 
 Description
@@ -35,4 +36,3 @@ Notes
 Pictures
 --------
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Side Dish](/Category:Side_Dish "wikilink")

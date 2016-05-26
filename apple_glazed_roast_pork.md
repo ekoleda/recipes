@@ -2,7 +2,7 @@
 title: Apple-Glazed Roast Pork
 permalink: /apple_glazed_roast_pork/
 layout: page
-categories: [entree]
+categories: [Entree]
 tags: [crockpot]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Basic Apple Pie
 permalink: /basic_apple_pie/
+categories: [Dessert]
 ---
 
 Description
@@ -35,4 +36,3 @@ Notes
 -   Flour is essential in the dry mixture, as it eliminates water and creates gooey nature of.
 -   Reduce the sugar, and up the amount of flour.
 
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Dessert](/Category:Dessert "wikilink")

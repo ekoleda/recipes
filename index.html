@@ -13,25 +13,19 @@ layout: default
   {% endfor %}
   {% assign allcategories = allcategories | split:'|' | sort %}
 
-  {% for category in allcategories %}
-    <h2>{{ category }}</h2>
-    <ul>
-    {% for page in site.pages %}
-      {% if page.categories contains category %}
-      <li>
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-      </li>
-      {% endif %}
+  <section class="post-content">
+    {% for category in allcategories %}
+      <h2>{{ category }}</h2>
+      <ul>
+        {% for page in site.pages %}
+          {% if page.categories contains category %}
+            <li>
+              <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
     {% endfor %}
-    </ul>
-  {% endfor %}
-
-  <ul class="post-list">
-    {% for page in site.pages %}
-      <li>
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> ({{page.categories}})
-      </li>
-    {% endfor %}
-  </ul>
+    </section>
 
 </div>

@@ -1,6 +1,7 @@
 ---
 title: Bean Burgers
 permalink: /bean_burgers/
+categories: [Entree]
 ---
 
 Description
@@ -33,5 +34,3 @@ Notes
 -   You may want to add more breadcrumbs in order to get a firmer patty.
 -   Avoid making them too thin, or else they will break apart while being flipped.
 -   Mayonnaise is a good topping.
-
-[Category:Recipe](/Category:Recipe "wikilink") [Category:Entree](/Category:Entree "wikilink")
