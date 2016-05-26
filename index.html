@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Recipes</h1>
+  <h1>Recipes</h1>
 
   {% assign allcategories = site.emptyArray %}
   {% for page in site.pages %}
@@ -16,19 +16,17 @@ layout: default
   {% endfor %}
   {% assign allcategories = allcategories | sort %}
 
-  <section class="post-content">
-    {% for category in allcategories %}
-      <h2>{{ category }}</h2>
-      <ul>
-        {% for page in site.pages %}
-          {% if page.categories contains category %}
-            <li>
-              <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-            </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    {% endfor %}
-  </section>
+  {% for category in allcategories %}
+    <h2>{{ category }}</h2>
+    <ul>
+      {% for page in site.pages %}
+        {% if page.categories contains category %}
+          <li>
+            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endfor %}
 
 </div>
